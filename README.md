@@ -19,10 +19,10 @@
 * Remove if else chain
 ```
 	71
-  87
-  110
-  112
-  117
+	87
+	110
+	112
+	117
 ```
   
 * Naming conventions for UI items
