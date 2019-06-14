@@ -146,10 +146,6 @@ public class SimpleNotePad extends JFrame{
         SimpleNotePad app = new SimpleNotePad(properties);
     }
 
-    private void UpdateConfig() {
-
-    }
-
     private void UpdateRecents(String newRecent) {
         try {
             String propsList = appProperties.getProperty("recent");
